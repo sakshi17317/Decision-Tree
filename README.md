@@ -102,5 +102,5 @@ Overall, ensemble methods outperform the single-tree model in both accuracy and 
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/sakshi17317/Decision-Tree>
+   git clone https://github.com/sakshi17317/Decision-Tree
    
